@@ -8,4 +8,4 @@ resource "aws_dynamodb_table" "new" {
         name = "id"
         type = "S"
     }
-}
+} 
