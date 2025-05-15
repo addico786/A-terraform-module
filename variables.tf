@@ -37,5 +37,5 @@ variable "instance_volume" {
 variable "key_path" {
     description = "set the key path"
     type = string
-  
-}
+   
+}   
