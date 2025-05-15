@@ -46,4 +46,4 @@ resource "aws_instance" "new-instance-15-5-2025" {
     }
 
     
-}
+}   
